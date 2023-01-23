@@ -5,6 +5,9 @@
 # Background
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
 
+![image](https://user-images.githubusercontent.com/111756299/214081784-00a61fb7-f0c0-4da3-8b34-04f616688065.png)
+
+
 # Final Webpage available using link below:
 
 https://amarrai99.github.io/Web-Design-Challenge/
